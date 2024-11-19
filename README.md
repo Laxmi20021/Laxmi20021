@@ -3,8 +3,6 @@
 
 - 🔭 I’m Currently Learning **Java full stack development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/laxmi20021](https://github.com/laxmi20021)
-
 - 💬 Ask me about **Java,Mysql,JDBC,HTML,CSS,Servlets,**
 
 - 📫 How to reach me **patillaxmi3442@gmail.com**
