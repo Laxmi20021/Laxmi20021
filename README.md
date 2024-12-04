@@ -3,7 +3,7 @@
 
 - 🔭 I’m Currently Learning **Java full stack development**
 
-- 💬 Ask me about **Java,Mysql,JDBC,HTML,CSS,Servlets,**
+- 💬 Ask me about **Java,Mysql,JDBC,HTML,CSS,Servlets,JPA,Spring-MVC**
 
 - 📫 How to reach me **patillaxmi3442@gmail.com**
 
