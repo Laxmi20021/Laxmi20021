@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi patil&show_icons=true&locale=en&layout=compact" alt="laxmi patil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bindushree&show_icons=true&locale=en" alt="bindushree" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmi&show_icons=true&locale=en" alt="bindushree" /></p>
