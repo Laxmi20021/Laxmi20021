@@ -1,5 +1,5 @@
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
-<h1 align="center">Hi 👋, I'm Bindu</h1>
+<h1 align="center">Hi 👋, I'm LAXMI V PATIL</h1>
 <h3 align="center">A passionate Full-Stack Development student</h3>
 
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPRKxBOAMXwcU-xN-K7d-II-ZZBiP0nHUrg&s">
